@@ -1,17 +1,15 @@
-baseurl: '/'
-permalink: pretty
-title: 'Jekyll Serif'
+title: 'The Semantics of Cancer'
 
 logo:
-  mobile: "images/logo/logo-mobile.svg"
+  mobile: "images/cell-icon.png"
   mobile_height: "32px"
-  mobile_width: "32px"
-  desktop: "images/logo/logo.svg"
-  desktop_height: "32px"
-  desktop_width: "120px"
+  mobile_width: "38px"
+  desktop: "images/logo-side.png"
+  desktop_height: "87px"
+  desktop_width: "405px"
 
 home: 
-  limit_services: 6
+  limit_services: 3
 
 collections:
   services:
