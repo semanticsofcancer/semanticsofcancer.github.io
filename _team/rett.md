@@ -1,5 +1,5 @@
 ---
-title: "Jessica Rett"
+title: "Jessica Rett, PhD"
 date: 2018-11-19T10:47:58+10:00
 image: "images/personnel/rett.png"
 jobtitle: "principal investigator"
