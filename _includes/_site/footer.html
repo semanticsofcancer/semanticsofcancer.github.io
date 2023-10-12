@@ -6,8 +6,8 @@
           <h2 class="footer-title">{{site.title}}</h2>
           <ul>
 	  	{% if site.data.contact.email %}
-    		<div class="call-email">
-      		<a href="mailto:{{ .site.data.contact.email }}" style="color: white">
+    		<div class="call-email"><strong>Email: </strong>
+      		<a href="mailto:{{ .site.data.contact.email }}">
         	{{ site.data.contact.email }}
       		</a>
     		</div>
