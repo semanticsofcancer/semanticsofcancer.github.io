@@ -1,21 +1,21 @@
 main:
-  - name: "Services"
+  - name: "Subprojects"
     url: "/services/"
-    weight: 2
-  - name: "Team"
-    url: "/team/"
     weight: 3
-  - name: "About"
+  - name: "Personnel"
+    url: "/team/"
+    weight: 2
+  - name: "Media"
     url: "/about/"
     weight: 4
-  - name: "Contact"
+  - name: "Funding"
     url: "/contact/"
     weight: 5
+  - name: "Conference"
+    url: "/conference/"
+    weight: 6
 
 footer:
   - name: "Home"
     url: "/"
     weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
