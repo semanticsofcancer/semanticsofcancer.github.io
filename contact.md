@@ -1,16 +1,19 @@
 ---
-title: Contact
-layout: contact
-description: Contact
+title: our sponsors and partners
+layout: page
+description: Funding
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
+# UCLA TRAG
 
-| Day       | Opening Hours   |
-| --------- | --------------- |
-| Tuesday   | 8:30am - 5:00pm |
-| Wednesday | 8:30am - 5:00pm |
-| Thursday  | 8:30am - 5:00pm |
-| Friday    | 8:30am - 5:00pm |
-| Saturday  | 10:am - 4:00pm  |
-| Saturday  | Closed          |
+We were awarded a UCLA Transdisciplinary Research Acceleration Grant in Summer 2022. 
+
+($29,200 to Crompton & Rett (PIs) & Feinsinger (Co-I)). 
+
+# UCLA Expert Endocrine Team
+
+We are indebted to Dr. Michael Yeh and the UCLA Expert Endocrine Team for sponsoring our research fellow position. 
+
+# Junie Kim
+
+We are grateful to Junie Kim for designing our lab logo.
