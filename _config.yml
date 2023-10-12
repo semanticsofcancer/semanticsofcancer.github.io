@@ -1,3 +1,5 @@
+baseurl: '/'
+permalink: 'pretty'
 title: 'The Semantics of Cancer'
 
 logo:
