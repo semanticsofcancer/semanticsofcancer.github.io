@@ -70,7 +70,7 @@ bodyClass: "page-home"
 <div class="strip">
 <div class="container pt-6 pb-6">
     <div class="row">
-        {% assign promoted_teams = site.team | where: "promoted", true | sort: "weight" %}
+        {% assign promoted_teams = site.team | where: "promoted", 1 | sort: "weight" %}
         {% for team in promoted_teams %}
         <div class="col-12 col-md-6 mb-2">
             <div class="team team-summary team-summary-large">
@@ -86,10 +86,15 @@ bodyClass: "page-home"
                     <a target="_blank" href="{{ team.linkedinurl }}" rel="noreferrer">Visit website</a>
                     {% endif %}
                 </div>
-		<div class="team-content">{{ team.content }}</div>
+                <div class="team-content">{{ team.content }}</div>
             </div>
         </div>
         {% endfor %}
+    </div>
+<div class="row justify-content-center">
+      <div class="col-auto">
+        <a class="button button-primary" href="{{ "team" | relative_url }}">view all personnel</a>
+      </div>
     </div>
 </div>
 </div>
