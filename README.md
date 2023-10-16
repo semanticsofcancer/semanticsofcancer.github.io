@@ -1,1 +1,1 @@
-# semanticsofcancer.github.io
+# semanticsofcancer.com
