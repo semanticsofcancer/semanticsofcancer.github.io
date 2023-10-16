@@ -9,10 +9,10 @@ main:
     url: "/team/"
     weight: 2
   - name: "Media"
-    url: "/about/"
+    url: "/media/"
     weight: 4
   - name: "Funding"
-    url: "/contact/"
+    url: "/funding/"
     weight: 5
   - name: "Conference"
     url: "/conference/"
