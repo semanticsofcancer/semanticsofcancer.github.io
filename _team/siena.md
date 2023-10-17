@@ -3,7 +3,7 @@ title: "Nick Siena, MD"
 date: 2018-12-20T13:44:30+10:00
 role: "co-investigator"
 jobtitle: "UCLA general surgery resident"
-weight: 1
+weight: 3
 promoted: 2
 ---
 
