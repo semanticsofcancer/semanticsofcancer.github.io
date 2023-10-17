@@ -4,11 +4,21 @@ layout: page
 description: Funding
 ---
 
-## UCLA TRAG
+## 2023 - Luskin Conference Award
 
-We were awarded a UCLA Transdisciplinary Research Acceleration Grant in Summer 2022. 
+Luskin Endowment for Thought and Leadership, The Semantics of Cancer, $7000. 
 
-($29,200 to Crompton & Rett (PIs) & Feinsinger (Co-I)). 
+## 2023 - Humanities Small Grant
+
+UCLA Dean of Humanities, Communicating Cancer, $12,000. 
+
+## 2023 - Faculty Research Grant
+
+To Dr. Rett, UCLA Council on Research, The Semantics of the Determination of Cancer, $8,858. 
+
+## 2022 - UCLA Transdisciplinary Research Acceleration Grant (TRAG)
+
+We were awareded the UCLA Transdisciplinary Research Acceleration Grant in the Summer of 2022. $29,200 to Crompton & Rett (PIs) & Feinsinger (Co-I). 
 
 ## UCLA Expert Endocrine Team
 
