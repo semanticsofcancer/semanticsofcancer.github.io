@@ -9,4 +9,4 @@ weight: 4
 
 Christian is a PhD student in Linguistics at UCLA. His research concerns how adults process language in real-time, particularly with respect to the role of meaning and context.
 
-[https://www.christian-muxica.com/](Learn more.)
+[Learn more.](https://www.christian-muxica.com/)
