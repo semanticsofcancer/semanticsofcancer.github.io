@@ -4,7 +4,7 @@ date: 2018-12-20T13:44:30+10:00
 role: "co-assistant"
 jobtitle: "UCLA graduate student in Linguistics"
 linkedinurl: ""
-weight: 2
+weight: 3
 promoted: 2
 ---
 
