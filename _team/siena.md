@@ -8,4 +8,4 @@ promoted: 2
 summary: "Nick is a current general surgery resident at UCLA with a clinical interest in critically ill patients.  His academic interests include the history and philosophy of medicine and surgery."
 ---
 
-Dr. Nick Siena is a current general surgery resident at UCLA with a clinical interest in critically ill patients. His academic interests include the history and philosophy of medicine and surgery. 
+Nick is a current general surgery resident at UCLA with a clinical interest in critically ill patients. His academic interests include the history and philosophy of medicine and surgery. 
