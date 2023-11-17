@@ -1,5 +1,5 @@
 ---
-title: "Kenechukwu Ojukwu, M.D., M.P.P."
+title: "Kenechukwu Ojukwu, MD MPP"
 date: 2018-12-20T13:44:30+10:00
 role: "co-investigator"
 jobtitle: "UCLA Bone/Soft Tissue Fellow"
