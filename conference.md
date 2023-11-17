@@ -1,12 +1,12 @@
 ---
-title: Conference
+title: Semantics and Philosophy of “Cancer” (SPoC) 
 layout: page
 description: Conference
 ---
 
-# Call for Papers 
+## Call for Papers 
 
-The Semantics and Philosophy of “Cancer” (SPoC)
+SPoC 2024
 
 UCLA Luskin Center
 
@@ -18,11 +18,10 @@ We are soliciting one-page abstracts for 40-minute talks on the meaning of the w
 
 Abstracts must be no longer than one page (11pt, 1in margins), not including references. Abstracts must be sent to semanticsofcancer@gmail.com by January 14, 2024, 11:59pm PT. Please direct any questions about the call for abstracts or the conference itself to the same email address.
 
-# Program
+## Program
 
 Coming soon
 
-# Travel Information
+## Travel Information
 
 Coming soon
-
