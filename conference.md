@@ -1,5 +1,5 @@
 ---
-title: Semantics and Philosophy of “Cancer” (SPoC) 
+title: Semantics and Philosophy of “Cancer”
 layout: page
 description: Conference
 ---
