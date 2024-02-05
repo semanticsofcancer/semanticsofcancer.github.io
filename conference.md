@@ -9,21 +9,18 @@ description: Conference
 
 ## Registration
 
-We ask participants to register for conference participation here by <b>March 20, 2024</b>. <br><br>
+The conference will take place on April 26, 2024 at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> through a generous conference grant from the Luskin Endowment for Thought and Leadership. Registrants can attend in person or remotely.
 
-The conference will take place on April 26, 2024 at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a>, through a generous conference grant from the Luskin Endowment for Thought and Leadership. Registrants can attend in person or remotely (with Zoom details to follow).
+We ask all participants to register for conference participation here by <b>March 20, 2024</b>. 
 
 ## Program
 
 All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.
 
-*featuring keynote speakers*
-
-**<a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane, PhD</a>**<br>
-**<a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski, PhD</a>**
-
 <table>
-  <tr>
+  <tr> tr:nth-child(even) {
+  background-color: #CEF8E0;
+}
     <th>time</th>
     <th>author</th>
     <th>affiliation</th>
@@ -37,7 +34,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
   <tr>
     <td>9:00-10:30am</td>
-    <td>Lucie Laplane</td>
+    <td><a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane</a></td>
     <td>CNRS Philosophy</td>
     <td>Title T.B.A.</td>
   </tr>
@@ -91,7 +88,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr> 
    <tr>
     <td>4:45-6:15pm</td>
-    <td>Anya Plutynski</td>
+    <td><a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski</a></td>
     <td>Washington University Philosophy</td>
     <td>Title T.B.A.</td>
   </tr> 
