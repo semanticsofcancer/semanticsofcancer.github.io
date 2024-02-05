@@ -25,13 +25,13 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   <tr>
     <td>8:30-9:00am</td>
     <td>Joseph Crompton, MD PhD</td>
-    <td>UCLA School of Medicine</td>
+    <td><i>UCLA School of Medicine</i></td>
     <td>welcome & introduction</td>
   </tr>
   <tr>
     <td>9:00-10:30am</td>
     <td><a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane</a></td>
-    <td>CNRS Philosophy</td>
+    <td><i>CNRS Philosophy</i></td>
     <td>Title T.B.A.</td>
   </tr>
   <tr>
@@ -43,12 +43,12 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   <tr>
     <td>11:00-11:45am</td>
     <td>Benjamin Spada</td>
-    <td>University of Bordeaux Philosophy</td>
+    <td><i>University of Bordeaux Philosophy</i></td>
     <td>Defining cancer across the tree of life</td>
   </tr>
   <tr>
     <td>11:45-12:30pm</td>
-    <td>Rett, Rulli, Raghunathan, Crompton</td>
+    <td>Rett, Rulli, Raghunathan & Crompton</td>
     <td><i>UCLA Linguistics, NYU School of Medicine, UCLA School of Medicine</i></td>
     <td>Expert variation in the understanding of 'cancer'</td>
   </tr>
@@ -61,19 +61,19 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   <tr>
     <td>2:00-2:45pm</td>
     <td>Grace Shoemaker & Jessica Rett</td>
-    <td>UCLA Linguistics</td>
+    <td><i>UCLA Linguistics</i></td>
     <td>Linguistic framing in 'cancer' and 'cancer'-adjacent terms</td>
   </tr>
   <tr>
     <td>2:45-3:30pm</td>
     <td>Allison Rulli</td>
-    <td>UCLA Linguistics & Philosophy</td>
+    <td><i>UCLA Linguistics & Philosophy</i></td>
     <td>Hallmarks of the hallmarks of cancer</td>
   </tr>
   <tr>
     <td>3:30-4:15pm</td>
     <td>Rajam Raghunathan</td>
-    <td>NYU School of Medicine</td>
+    <td><i>NYU School of Medicine</i></td>
     <td>Towards a new semantics of cancer: Can a theory of exclusion (apoha) help us to better understand 'cancer'?</td>
   </tr>
    <tr>
@@ -85,7 +85,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
    <tr>
     <td>4:45-6:15pm</td>
     <td><a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski</a></td>
-    <td>Washington University Philosophy</td>
+    <td><i>Washington University Philosophy</i></td>
     <td>Title T.B.A.</td>
   </tr> 
    <tr>
