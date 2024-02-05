@@ -15,14 +15,93 @@ April 26, 2024
 **<a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane, PhD</a>**<br>
 **<a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski, PhD</a>**
 
-We are soliciting one-page abstracts for 40-minute talks on the meaning of the word “cancer”. We are interested in talks that incorporate methods or perspectives from linguistics, philosophy, sociology, anthropology, or communication sciences on how language-users understand and intend the word “cancer”, and how these concepts of meaning might vary across populations (especially demographically, or between physicians and their patients). Several topics we expect will be represented in the conference include: the metaphysics of cancer as a (non-)natural kind, especially as it pertains to nomenclature; the ramifications of standard definitions of cancer (e.g. the Hallmarks) for the philosophy of science; accounts of the meaning of “cancer” in linguistic semantics or philosophy of language; sociolinguistic or corpus studies of cultural variation in the understanding of “cancer”; cross-cultural or cross-linguistic variation in labels for cancer, or interpretations of the word “cancer” discussions relating the semantics of “cancer” to the issues of overdiagnosis and overtreatment
+## Registration
 
-Abstracts must be no longer than one page (11pt, 1in margins), not including references. Abstracts must be sent to semanticsofcancer@gmail.com by January 29, 2024, 11:59pm PT. Please direct any questions about the call for abstracts or the conference itself to the same email address.
+We ask participants to register for conference participation here by <b>March 20, 2024</b>.
 
 ## Program
 
-Coming soon...
+All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.<br><br>
+The conference will take place on April 26, 2024 at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a>, through a generous conference grant from the Luskin Endowment for Thought and Leadership. Registrants can attend in person or remotely (with Zoom details to follow).
 
-## Travel Information
+<table>
+  <tr>
+    <th>time</th>
+    <th>author</th>
+    <th>affiliation</th>
+    <th>title</th>
+  </tr>
+  <tr>
+    <td>8:30-9:00am</td>
+    <td>Joseph Crompton, MD PhD</td>
+    <td>UCLA School of Medicine</td>
+    <td>welcome & introduction</td>
+  </tr>
+  <tr>
+    <td>9:00-10:30am</td>
+    <td>Lucie Laplane</td>
+    <td>CNRS Philosophy</td>
+    <td>Title T.B.A.</td>
+  </tr>
+  <tr>
+    <td>10:30-11:00am</td>
+    <td></td>
+    <td></td>
+    <td><b>break</b></td>
+  </tr>
+  <tr>
+    <td>11:00-11:45am</td>
+    <td>Benjamin Spada</td>
+    <td>University of Bordeaux Philosophy</td>
+    <td>Defining cancer across the tree of life</td>
+  </tr>
+  <tr>
+    <td>11:45-12:30pm</td>
+    <td>Rett, Rulli, Raghunathan, Crompton</td>
+    <td><i>(various)</i>i></td>
+    <td>Expert variation in the understanding of 'cancer'</td>
+  </tr>
+  <tr>
+    <td>12:30-2:00pm</td>
+    <td></td>
+    <td></td>
+    <td><b>lunch</b></td>
+  </tr>
+  <tr>
+    <td>2:00-2:45pm</td>
+    <td>Grace Shoemaker & Jessica Rett</td>
+    <td>UCLA Linguistics</td>
+    <td>Linguistic framing in 'cancer' and 'cancer'-adjacent terms</td>
+  </tr>
+  <tr>
+    <td>2:45-3:30pm</td>
+    <td>Allison Rulli</td>
+    <td>UCLA Linguistics & Philosophy</td>
+    <td>Hallmarks of the hallmarks of cancer</td>
+  </tr>
+  <tr>
+    <td>3:30-4:15pm</td>
+    <td>Rajam Raghunathan</td>
+    <td>NYU School of Medicine</td>
+    <td>Towards a new semantics of cancer: Can a theory of exclusion (apoha) help us to better understand 'cancer'?</td>
+  </tr>
+   <tr>
+    <td>4:15-4:45pm</td>
+    <td></td>
+    <td></td>
+    <td><b>break</b></td>
+  </tr> 
+   <tr>
+    <td>4:45-6:15pm</td>
+    <td>Anya Plutynski</td>
+    <td>Washington University Philosophy</td>
+    <td>Title T.B.A.</td>
+  </tr> 
+   <tr>
+    <td>6:30-8:30pm</td>
+    <td></td>
+    <td></td>
+    <td><b>dinner</b></td>
+  </tr> 
+</table>
 
-Coming soon...
