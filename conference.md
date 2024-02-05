@@ -32,7 +32,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
     <td>9:00-10:30am</td>
     <td><a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane</a></td>
     <td><i>CNRS Philosophy</i></td>
-    <td>Title T.B.A.</td>
+    <td><i>Cancer clone: what is in a name?</i></td>
   </tr>
   <tr>
     <td>10:30-11:00am</td>
