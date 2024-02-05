@@ -17,7 +17,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
 
 <table>
   <tr> 
-    <th>time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+    <th>time &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
     <th>author</th>
     <th>affiliation</th>
     <th>title</th>
