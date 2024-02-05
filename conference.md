@@ -15,7 +15,7 @@ The conference will take place on April 26, 2024 at the <a href="https://luskinc
 
 ## Program
 
-All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.<br><br>
+All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.
 
 *featuring keynote speakers*
 
@@ -43,9 +43,9 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
   <tr>
     <td>10:30-11:00am</td>
-    <td></td>
-    <td></td>
     <td><b>break</b></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>11:00-11:45am</td>
@@ -56,14 +56,14 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   <tr>
     <td>11:45-12:30pm</td>
     <td>Rett, Rulli, Raghunathan, Crompton</td>
-    <td><i>(various)</i>i></td>
+    <td><i>(various)</i></td>
     <td>Expert variation in the understanding of 'cancer'</td>
   </tr>
   <tr>
     <td>12:30-2:00pm</td>
-    <td></td>
-    <td></td>
     <td><b>lunch</b></td>
+    <td></td>
+    <td></td>
   </tr>
   <tr>
     <td>2:00-2:45pm</td>
@@ -85,9 +85,9 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
    <tr>
     <td>4:15-4:45pm</td>
-    <td></td>
-    <td></td>
     <td><b>break</b></td>
+    <td></td>
+    <td></td>
   </tr> 
    <tr>
     <td>4:45-6:15pm</td>
