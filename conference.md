@@ -17,10 +17,10 @@ We ask all participants to register for conference participation here by <b>Marc
 
 All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.
 
-<table>
-  <tr> tr:nth-child(even) {
+<table> tr:nth-child(even) {
   background-color: #CEF8E0;
 }
+  <tr> 
     <th>time</th>
     <th>author</th>
     <th>affiliation</th>
@@ -94,9 +94,9 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr> 
    <tr>
     <td>6:30-8:30pm</td>
-    <td></td>
-    <td></td>
     <td><b>dinner</b></td>
+         <td></td>
+    <td></td>
   </tr> 
 </table>
 
