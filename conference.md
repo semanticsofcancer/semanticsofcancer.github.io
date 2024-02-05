@@ -4,25 +4,23 @@ layout: page
 description: Conference
 ---
 
-## Call for Papers 
 
-UCLA Luskin Center 
 
-April 26, 2024
+
+## Registration
+
+We ask participants to register for conference participation here by <b>March 20, 2024</b>. <br><br>
+
+The conference will take place on April 26, 2024 at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a>, through a generous conference grant from the Luskin Endowment for Thought and Leadership. Registrants can attend in person or remotely (with Zoom details to follow).
+
+## Program
+
+All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.<br><br>
 
 *featuring keynote speakers*
 
 **<a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane, PhD</a>**<br>
 **<a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski, PhD</a>**
-
-## Registration
-
-We ask participants to register for conference participation here by <b>March 20, 2024</b>.
-
-## Program
-
-All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a> at UCLA.<br><br>
-The conference will take place on April 26, 2024 at the <a href="https://luskinconferencecenter.ucla.edu">Luskin Center</a>, through a generous conference grant from the Luskin Endowment for Thought and Leadership. Registrants can attend in person or remotely (with Zoom details to follow).
 
 <table>
   <tr>
