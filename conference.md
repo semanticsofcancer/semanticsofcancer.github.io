@@ -86,7 +86,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
     <td>4:45-6:15pm</td>
     <td><a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski</a></td>
     <td><i>Washington University Philosophy</i></td>
-    <td>Title T.B.A.</td>
+    <td>Cancer as a Unified Kind? On Theoretical and Classificatory Unity in Cancer Research</td>
   </tr> 
    <tr>
     <td>6:30-8:30pm</td>
