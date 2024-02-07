@@ -30,7 +30,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
   <tr>
     <td>9:00-10:30am</td>
-    <td><a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane</a></td>
+    <td><a href="https://www.pantheonsorbonne.fr/page-perso/llaplane">Lucie Laplane</a>, PhD</td>
     <td><i>CNRS Philosophy</i></td>
     <td>Cancer clone: what is in a name?</td>
   </tr>
@@ -60,7 +60,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
   <tr>
     <td>2:00-2:45pm</td>
-    <td>Grace Shoemaker & Jessica Rett</td>
+    <td>Grace Shoemaker & Jessica Rett, PhD</td>
     <td><i>UCLA Linguistics</i></td>
     <td>Linguistic framing in 'cancer' and 'cancer'-adjacent terms</td>
   </tr>
@@ -72,7 +72,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr>
   <tr>
     <td>3:30-4:15pm</td>
-    <td>Rajam Raghunathan</td>
+    <td>Rajam Raghunathan, MD PhD</td>
     <td><i>NYU School of Medicine</i></td>
     <td>Towards a new semantics of cancer: Can a theory of exclusion (apoha) help us to better understand 'cancer'?</td>
   </tr>
@@ -84,7 +84,7 @@ All talks will be held in the <b>Laureate Classroom</b> at the <a href="https://
   </tr> 
    <tr>
     <td>4:45-6:15pm</td>
-    <td><a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski</a></td>
+    <td><a href="https://artsci.wustl.edu/faculty-staff/anya-plutynski">Anya Plutynski</a>, PhD</td>
     <td><i>Washington University Philosophy</i></td>
     <td>Cancer as a Unified Kind? On Theoretical and Classificatory Unity in Cancer Research</td>
   </tr> 
