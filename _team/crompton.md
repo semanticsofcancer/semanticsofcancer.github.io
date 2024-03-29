@@ -9,4 +9,4 @@ weight: 1
 summary: "Dr. Crompton is a cancer surgeon at UCLA; his research is centered on de-escaling morbid and unnecessary operations for cancer patients."
 ---
 
-Dr. Crompton is a cancer surgeon at UCLA; his research is centered on de-escaling morbid and unnecessary operations for cancer patients. 
+Dr. Crompton is a cancer surgeon at UCLA; his research is centered on de-escalating morbid and unnecessary operations for cancer patients. 
